@@ -1,0 +1,22 @@
+
+html {
+font-size: 25px;
+}
+body{
+background-color: rgb(91, 120, 129);
+color:rgb(12, 12, 11);
+}
+h1{
+    color: rgb(6, 20, 20);
+    
+}
+#DailyRoutine{
+    
+    font-size: 20px;
+    color:blue;
+    margin-top: auto;
+}
+#p1{
+color:aqua;
+font-size: 30px;
+}
